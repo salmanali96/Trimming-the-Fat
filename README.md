@@ -1,5 +1,5 @@
 
-# Trimming the Fat
+# [BMVC 2024] Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning
 
 
 This code is build upon the official implementation of the paper "3D Gaussian Splatting for Real-Time Radiance Field Rendering". To set up the code, please refer to the original repository
